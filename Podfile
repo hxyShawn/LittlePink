@@ -7,5 +7,6 @@ target 'LittlePink' do
 
   # Pods for LittlePink
   pod "ESTabBarController-swift"
-  
+  pod 'XLPagerTabStrip', '~> 9.0'
+
 end
